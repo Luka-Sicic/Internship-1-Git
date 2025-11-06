@@ -7,5 +7,9 @@ Marul ima 0 pobjeda i 0 poraza!
 =======
 O . .
 . . .
+<<<<<<< HEAD
 >>>>>>> Main
 . . x
+=======
+x . x
+>>>>>>> d9eacf30cb0c3090c83264b75627af23af698fe7
