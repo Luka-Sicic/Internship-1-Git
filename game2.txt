@@ -1,5 +1,5 @@
-Luka ima 1 pobjeda i 0 poraza!
-Marul ima 0 pobjeda i 0 poraza!
+Luka ima 3 pobjeda i 0 poraza!
+Marul ima 0 pobjeda i 3 poraza!
 
 x x x
 . O .
