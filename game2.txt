@@ -2,5 +2,10 @@ Luka ima 0 pobjeda i 0 poraza!
 Marul ima 0 pobjeda i 0 poraza!
 
 . . x
+<<<<<<< HEAD
 . . .
 . . O
+=======
+. O .
+. . .
+>>>>>>> Main
